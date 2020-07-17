@@ -1,0 +1,60 @@
+# Header
+menu:
+  主页: /
+  所有文章: /archives
+  标签:Hello-World: /tags/Hello-World
+  分类:未分类: /categories/uncategorized
+  关于我: /about
+
+# SubNav
+subnav:
+  github: "https://github.com/yourname"
+  #weibo: "#"
+  #rss: "#"
+  #zhihu: "#"
+  #douban: "#"
+  #mail: "example@example.com"
+  #facebook: "#"
+  #twitter: "#"
+  #linkedin: "#"
+
+# rss: /atom.xml
+
+# Content
+excerpt_link: more
+fancybox: true
+mathjax: true
+
+# 是否开启动画效果
+animate: false
+
+# 是否在新窗口打开链接
+open_in_new: false
+
+# Miscellaneous
+# google_analytics: ''
+# favicon: /favicon.png
+
+#你的头像url
+avatar: https://github.githubassets.com/images/modules/logos_page/Octocat.png
+#是否开启分享
+share: false
+#是否开启云标签
+tagcloud: true
+
+#是否开启友情链接
+#不开启——
+friends: false
+#开启——
+# friends: true
+#####  奥巴马的博客: http://localhost:4000/
+#####  卡卡的美丽传说: http://localhost:4000/
+#####  本泽马的博客: http://localhost:4000/
+#####  吉格斯的博客: http://localhost:4000/
+#####  托蒂的博客: http://localhost:4000/
+
+#是否开启“关于我”。
+#不开启——
+aboutme: false
+#开启——
+#aboutme: 随便写点 ...
