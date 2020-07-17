@@ -36,7 +36,7 @@ open_in_new: false
 # favicon: /favicon.png
 
 #你的头像url
-avatar: /images/avatar.jpg
+avatar: http://cho.alloy.ink/images/avatar.jpg
 #是否开启分享
 share: false
 #是否开启云标签
