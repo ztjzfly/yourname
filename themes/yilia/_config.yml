@@ -1,10 +1,10 @@
 # Header
 menu:
-  主页: /
-  所有文章: /archives
-  标签:Hello-World: /tags/Hello-World
-  分类:未分类: /categories/uncategorized
-  关于我: /about
+  主页: /posts
+  所有文章: /posts/archives
+  标签:Hello-World: /posts/tags/Hello-World
+  分类:未分类: /posts/categories/uncategorized
+  关于我: /posts/about
 
 # SubNav
 subnav:
