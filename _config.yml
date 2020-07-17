@@ -12,8 +12,8 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://chobitly.github.io/posts
-root: /posts
+url: http://cho.alloy.ink/
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
