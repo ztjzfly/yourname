@@ -2,9 +2,9 @@
 menu:
   主页: /
   所有文章: /archives
-  标签:Hello-World: /tags/Hello-World
-  分类:未分类: /categories/uncategorized
-  关于我: /about
+  TAG: /tag
+  合集: /category
+  # 关于我: /about
 
 # SubNav
 subnav:
@@ -55,6 +55,6 @@ friends: false
 
 #是否开启“关于我”。
 #不开启——
-aboutme: false
+#aboutme: false
 #开启——
-#aboutme: 随便写点 ...
+aboutme: 随便写点 ...
