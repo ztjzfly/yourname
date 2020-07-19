@@ -21,7 +21,7 @@ subnav:
 # rss: /atom.xml
 
 # Content
-excerpt_link: more
+excerpt_link: 全文
 fancybox: true
 mathjax: true
 
