@@ -6,11 +6,11 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yourname.github.io/"/>
-  <updated>2020-08-04T07:11:17.833Z</updated>
+  <updated>2020-08-04T07:17:42.629Z</updated>
   <id>https://yourname.github.io/</id>
   
   <author>
-    <name>红荻</name>
+    <name>阿鰆</name>
     
   </author>
   
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="https://yourname.github.io/Hello-World/"/>
     <id>https://yourname.github.io/Hello-World/</id>
-    <published>2020-08-04T07:11:17.833Z</published>
-    <updated>2020-08-04T07:11:17.833Z</updated>
+    <published>2020-08-04T07:17:42.629Z</published>
+    <updated>2020-08-04T07:17:42.629Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World!"></a>Hello World!</h1><a id="more"></a>]]></content>
     
