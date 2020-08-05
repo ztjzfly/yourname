@@ -36,7 +36,7 @@ open_in_new: false
 # favicon: /favicon.png
 
 #你的头像url
-avatar: https://github.githubassets.com/images/modules/logos_page/Octocat.png
+avatar: https://avatars3.githubusercontent.com/u/68899392?s=460&u=5489a1ce79492a8d57895e1baddccc33235af9fc&v=4
 #是否开启分享
 share: false
 #是否开启云标签
